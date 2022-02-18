@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+/* font-family: 'Lato', sans-serif; */
+.wrapper {
+	overflow: hidden;
+	min-height: 100%;
+	max-width: 810px;
+	margin: 0 auto;
+}
+
+body {
+	font-size: 16px;
+	font-family: "Lato", sans-serif;
+	color: #424551;
+}
+
+.title {
+	font-weight: 900;
+	font-size: 46px;
+	color: #1e212c;
+	margin-bottom: 26px;
+	line-height: 59.8px;
+}
+
+.data {
+	margin-bottom: 40px;
+	color: #787a80;
+}
+
+.data1 {
+	background-image: url(../img/Vector\ Stroke.png);
+	background-repeat: no-repeat;
+	background-position: 0 2px;
+	padding: 0 0 0 24px;
+	margin: 0 24px 0 0;
+}
+
+.time {
+	background: url(../img/Clock.png) 0 2px no-repeat;
+	padding: 0 0 0 24px;
+}
+
+.img-curs {
+	margin-bottom: 60px;
+}
+.text1 {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	margin-bottom: 24px;
+	color: #1e212c;
+}
+
+.text2 {
+	line-height: 1.6;
+	margin-bottom: 48px;
+}
+.doptext {
+	margin-bottom: 40px;
+}
+
+.text3 {
+	background-image: url(../img/Rectangle\ 268.png), url(../img/Rectangle\ 268.png);
+	background-repeat: no-repeat, no-repeat;
+	background-position: 0 0, 18px 0;
+	padding: 0 0 0 58px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	color: #1e212c;
+	margin-bottom: 48px;
+}
+
+.text4 {
+	line-height: 1.6;
+	margin-bottom: 24px;
+}
+
+.list1 {
+	background: url(../img/Vector.png) 0 5px no-repeat;
+	padding: 0 0 0 32px;
+	margin-bottom: 4px;
+	line-height: 1.6;
+}
+.list2 {
+	background: url(../img/Vector.png) 0 5px no-repeat;
+	padding: 0 0 0 32px;
+	line-height: 1.6;
+}
+
+.list {
+	margin-bottom: 24px;
+}
+
+.text5 {
+	line-height: 1.6;
+	margin-bottom: 20px;
+}
+
+.title2 {
+	margin: 20px 0 8px 0;
+	font-weight: 700;
+	color: #1e212c;
+	line-height: 24px;
+}
+
+.title3 {
+	font-weight: 900;
+	font-size: 46px;
+	color: #1e212c;
+	margin-bottom: 40px;
+	line-height: 59.8px;
+}
+
+.now-list1 {
+	background: url(../img/Vector.png) 0 5px no-repeat;
+	padding: 0 0 0 32px;
+	margin-bottom: 12px;
+	line-height: 1.6;
+}
+
+.now-list2 {
+	background: url(../img/Vector.png) 0 5px no-repeat;
+	padding: 0 0 0 32px;
+	line-height: 1.6;
+}
+
+.now-list {
+	margin-bottom: 22px;
+	line-height: 1.6;
+}
+
+.buttom {
+	display: inline-block;
+	background-image: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+	padding: 0px 32px;
+	margin-bottom: 30px;
+	max-width: 161px;
+	border-radius: 4px;
+	letter-spacing: 0.5px;
+	color: white;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 3.1;
+}
